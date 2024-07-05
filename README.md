@@ -32,12 +32,4 @@ To use the stopwatch:
 3. Use the buttons to start, pause, and reset the stopwatch.
 4. Click the "Lap" button to record lap times.
 
-Feel free to explore the code and customize the stopwatch according to your needs!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Show your support
-
-If you find this project helpful, consider giving it a ⭐️ on GitHub!
